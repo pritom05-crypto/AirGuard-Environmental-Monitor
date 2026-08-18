@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "493532620829",
+    "project_id": "airguard-b514a",
+    "storage_bucket": "airguard-b514a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493532620829:android:bf71e583d35ddf2d507ef4",
+        "android_client_info": {
+          "package_name": "com.example.airguard_new"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwvs_Dgx9MPc4EV8OwUKu-vVVhm-CeB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
