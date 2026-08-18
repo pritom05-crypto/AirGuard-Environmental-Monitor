@@ -62,19 +62,19 @@ https://pritom05-crypto.github.io/AirGuard-Environmental-Monitor/
 ### 🖥️ Dashboard
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="90%" alt="AirGuard Dashboard"/>
+  <img src="screenshots/app_live_details.jpeg" width="90%" alt="AirGuard Dashboard"/>
 </p>
 
 ### 📊 Monitoring Interface
 
 <p align="center">
-  <img src="screenshots/monitoring.png" width="90%" alt="AirGuard Monitoring"/>
+  <img src="screenshots/"app_home.jpeg" width="90%" alt="AirGuard Monitoring"/>
 </p>
 
 ### 📱 Responsive View
 
 <p align="center">
-  <img src="screenshots/responsive.png" width="70%" alt="AirGuard Responsive Interface"/>
+  <img src="screenshots/app_analytics.jpeg" width="70%" alt="AirGuard Responsive Interface"/>
 </p>
 
 > **To add your screenshots:** create a folder named `screenshots` in the project root and place your images inside it using the names above.
